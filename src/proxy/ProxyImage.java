@@ -1,3 +1,5 @@
+package proxy;
+
 public class ProxyImage implements Image{
 
     private RealImage realImage;

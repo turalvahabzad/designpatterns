@@ -1,3 +1,5 @@
+package proxy;
+
 public class ObjectCreator {
 
     public static Image createObject(Class clazz){
